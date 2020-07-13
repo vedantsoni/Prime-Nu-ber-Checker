@@ -1,0 +1,17 @@
+{
+  "name": "lab_9",
+  "version": "1.0.0",
+  "description": "Using HTML, CSS, and JavaScript on the user's browser to make a simple Prime Number checker!",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Vedant Soni 10441291",
+  "license": "ISC"
+}
